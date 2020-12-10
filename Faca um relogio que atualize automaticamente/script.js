@@ -1,4 +1,4 @@
-function atualizaHora() {
+function atualizaHora() {    
     mostraHora();
     setInterval(() => {
         mostraHora();
